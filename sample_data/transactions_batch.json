@@ -1,0 +1,23 @@
+[
+  {
+    "transaction_id": "TXN-2026-0001",
+    "amount_usd": 145.50,
+    "currency": "USD",
+    "country": "US",
+    "timestamp": "2026-11-18T14:22:00Z",
+    "account_number": "4532-8910-2231-9001",
+    "customer_ssn": "123-45-6789",
+    "customer_name": "Jane Doe"
+  },
+  {
+    "transaction_id": "TXN-2026-0002",
+    "amount_usd": 9850.00,
+    "currency": "USD",
+    "country": "US",
+    "timestamp": "2026-11-18T14:25:10Z",
+    "account_number": "4532-8910-2231-9001",
+    "customer_ssn": "123-45-6789",
+    "customer_name": "Jane Doe",
+    "note": "Third consecutive cash wire under $10k threshold in 24h"
+  }
+]
